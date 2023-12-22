@@ -1,0 +1,2 @@
+# Solutions for Sattelite Prediction CNNs
+This repository serves as solutions to the Sattelite Prediction for Land Use notebooks in Delft University of Technology's Data Science and Artificial Intelligence for Engineers. 

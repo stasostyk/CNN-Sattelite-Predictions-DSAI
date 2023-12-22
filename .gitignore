@@ -1,0 +1,6 @@
+/data
+.idea
+# all pth files in models
+*.pth
+# all pyc files
+*.pyc
